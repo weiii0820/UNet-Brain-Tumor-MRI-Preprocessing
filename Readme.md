@@ -77,3 +77,4 @@
 - [Kaggle Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)  
 - [Figshare Brain Tumor Dataset](https://doi.org/10.6084/m9.figshare.1512427.v5)  
 - 臺北榮總臨床 MRI 影像
+- [自標註腫瘤 Mask（100 張示意）](https://drive.google.com/drive/folders/13p8P9IRgJezvs43KC30KFSY8BDU_eaBg?usp=drive_link)  
